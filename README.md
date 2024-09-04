@@ -1,10 +1,10 @@
-##[Introduce]
+[Introduce]   
 Hello, welcome to the portfolio of Hansol Kim.
 I aspire to become a Data Scientist / Data Analyst.
 I have learned Python and Java, and I possess skills in Natural Language Processing and AI chatbot modeling through Machine Learning and Deep Learning.
 Previously, I worked as a Taekwondo instructor, English tutor, and quality control specialist at a food company.
 
-##[Project]
+[Project]   
 1. Tax Automation Project
  - GitHub Repository (https://github.com/Hansol-1475/PRJ01)
 
